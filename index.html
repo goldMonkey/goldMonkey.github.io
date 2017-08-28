@@ -367,6 +367,17 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/08/29/hello-world/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="2017/08/29/hello-world/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -670,6 +681,14 @@
 
   
 
+    
+      <script id="dsq-count-scr" src="https://mymz.disqus.com/count.js" async></script>
+    
+
+    
+
+  
+
 
 
 
@@ -682,10 +701,6 @@
   
 
 
-
-
-
-  
 
 
 
@@ -903,7 +918,7 @@
 
                   // select top N slices in content
 
-                  var upperBound = parseInt('3');
+                  var upperBound = parseInt('1');
                   if (upperBound >= 0) {
                     slicesOfContent = slicesOfContent.slice(0, upperBound);
                   }
