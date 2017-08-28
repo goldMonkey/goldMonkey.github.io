@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/08/29/hello-world/</loc>
+    <loc>http://www.xiaomaww.com/categories/index.html</loc>
+    
+    <lastmod>2017-08-28T18:38:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.xiaomaww.com/tags/index.html</loc>
+    
+    <lastmod>2017-08-28T18:36:41.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.xiaomaww.com/2017/08/29/hello-world/</loc>
     
     <lastmod>2017-08-28T16:08:03.000Z</lastmod>
     
